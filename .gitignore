@@ -1,3 +1,5 @@
 .vs/
 Client/Debug/
 Server/Debug/
+*.o
+*.exe

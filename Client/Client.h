@@ -4,7 +4,7 @@
 #include <iostream>
 #include <string>
 #include <ctime>
-#include <WS2tcpip.h>
+#include <ws2tcpip.h>
 
 #pragma comment (lib, "ws2_32.lib")
 
